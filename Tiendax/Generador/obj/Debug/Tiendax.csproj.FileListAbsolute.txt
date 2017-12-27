@@ -1,0 +1,3 @@
+D:\IDAT\generador_ppt\Generador\Generador\bin\Debug\Generador.exe.config
+D:\IDAT\generador_ppt\Generador\Generador\obj\Debug\Generador.exe
+D:\IDAT\generador_ppt\Generador\Generador\obj\Debug\Generador.pdb
